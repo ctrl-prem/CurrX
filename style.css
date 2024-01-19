@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  border-radius: 0.5rem;
+  border-radius: 0.75rem;
   background-color: white;
   padding: 2rem;
   min-height: 45vh;
