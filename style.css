@@ -54,7 +54,7 @@ form input{
   justify-content: center;
   align-items: center;
   width: 6rem;
-  border: 0.1rem solid lightgray;
+/*   border: 0.1rem solid lightgray; */
   border-radius: 0.5rem;
 }
 
